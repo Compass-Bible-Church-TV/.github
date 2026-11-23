@@ -1,4 +1,4 @@
-# Compass Bible Church, Treasure Valley · Technology & Media Team
+# Technology & Media Team
 
 ## Mission
 
