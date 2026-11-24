@@ -18,6 +18,14 @@ The Technology & Media Team exists to glorify God as we support and amplify the 
 2. **Media Pipelines & Distribution:** Video-on-demand (VOD), live-streaming infrastructure, post-production workflows, media asset management, and digital content delivery systems.
 3. **Software & Infrastructure:** Software development and support, network engineering, church management systems, IT infrastructure, and data security.
 
+## How we work
+
+We're one part of the church's support staff, and every event runs through a shared lifecycle (a work in progress):
+
+**Schedule → Plan → Run → Distribute → Insights → Retrospective**, with **Comms** running alongside from the moment an event is on the calendar.
+
+- **How we work:** [the map](https://github.com/Compass-Bible-Church-TV/cbc-how-we-work) of the church-wide operating model and event lifecycle, and who does what (members only).
+
 ## How we build software
 
 - **Shared standards:** every app follows our product standards, engineering standards and design system, so the congregation meets one consistent experience wherever they find us.
