@@ -20,11 +20,12 @@ The Technology & Media Team exists to glorify God as we support and amplify the 
 
 ## How we build software
 
-- **Shared standards:** every app follows our engineering standards and design system, so the congregation meets one consistent experience wherever they find us.
+- **Shared standards:** every app follows our product standards, engineering standards and design system, so the congregation meets one consistent experience wherever they find us.
 - **Small, safe changes:** short-lived branches, reviewed pull requests, and versioned releases that can be rolled back.
 - **Accessible on every device:** usable by keyboard and screen reader, on phones as well as desktops.
 - **People's information protected:** personal information stays in the church's systems of record, and public pages show only what's meant to be public.
 - **AI as a careful helper:** we build with Claude, guided by the same written standards our people follow, and people make the decisions.
+- **How we work:** [the overview](https://github.com/Compass-Bible-Church-TV/cbc-how-we-work) of how product, design and engineering fit together (members only).
 
 ## Repositories
 
@@ -33,3 +34,4 @@ Most of our work is in private repositories. Anything we publish openly appears 
 ## Find us
 
 [compassbible.tv](https://compassbible.tv)
+
